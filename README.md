@@ -10,18 +10,18 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 
 ## Categorías
 
-* [Aseo e higiene](#aseo-e-higiene)
-* [Comida](#comida)
-  * [Bebidas y alcohol](#bebidas-y-alcohol)
-  * [Carnes](#carnes)
-  * [Café y té](#cafe-y-te)
-  * [Deportiva](#deportiva)
-  * [Desayuno y once](#desayuno-y-once)
-  * [Frutas y verduras](#frutas-y-verduras)
-  * [Huevos](#huevos)
-  * [Pescados y mariscos](#pescados-y-mariscos)
-  * [Vegana](#vegana)
-* [Mascotas](#mascotas)
+* [Aseo e higiene](#aseo-e-higiene-)
+* [Comida](#comida-)
+  * [Bebidas y alcohol](#bebidas-y-alcohol-)
+  * [Carnes](#carnes-)
+  * [Café y té](#cafe-y-te-)
+  * [Deportiva](#deportiva-)
+  * [Desayuno y once](#desayuno-y-once-)
+  * [Frutas y verduras](#frutas-y-verduras-)
+  * [Huevos](#huevos-)
+  * [Pescados y mariscos](#pescados-y-mariscos-)
+  * [Vegana](#vegana-)
+* [Mascotas](#mascotas-)
 
 ## Aseo e higiene 🧻
 
