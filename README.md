@@ -1,6 +1,6 @@
 # Quédate En Casa Chile
 
-> Una lista de tiendas con servicios de delivery categorizada dentro de Chile.
+> Lista categorizada de comercios con despacho a la casa en Chile.
 
 Este repositorio comienza como una ayuda para las personas en cuarentena por CoV-19 para poder acceder a productos sin necesidad de salir de sus casas y maximizar su distanciamiento social, y al mismo tiempo apoyar el comercio minorista y el emprendimiento local.
 
