@@ -1,4 +1,4 @@
-# Quedate En Casa Chile
+# Quédate En Casa Chile
 
 > Una lista de tiendas con servicios de delivery categorizada dentro de Chile.
 
