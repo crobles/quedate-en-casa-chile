@@ -23,6 +23,7 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 
 ## Aseo e higiene 🧻
 
+* [productosdeaseo.cl](http://www.productosdeaseo.cl) - Papel higénico y productos de limpieza.
 * [cleanqueen.cl](http://www.cleanqueen.cl) - Productos de limpieza. `Algunas comunas de RM`
 * [incoludido.cl](http://www.incoludido.cl) - Papel higénico. `Varias regiones`
 * [huertosdelchef.cl](http://www.huertosdelchef.cl) - Detergente ecológico. `RM`
