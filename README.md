@@ -80,7 +80,7 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 ### Huevos 🥚
 
 * www.vasma.cl - Huevos de criadero y gallinas libres. [No especifica zona](aportando.md).
-* www.instagram.com/huevos_lacastellana - Huevos de gallinas libres. Concepción.
+* www.instagram.com/huevos_lacastellana - Huevos de gallinas libres. RM y V.
 * www.instagram.com/agricolachada - Huevos de gallinas libres. Algunas comunas de RM.
 * www.instagram.com/campodebarrio - Huevos de gallinas libres. [No especifica zona](aportando.md).
 
