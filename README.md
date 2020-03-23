@@ -61,7 +61,7 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 
 * www.instagram.com/losmora.charcuteria - Charcutería. RM.
 * www.instagram.com/montecarmelocolmenares - Miel. RM
-* www.instagram.com/campodebarrio - Granola artesanal. [No especifica zona](aportando.md).
+* www.instagram.com/campodebarrio - Granola artesanal y quesos. [No especifica zona](aportando.md).
 
 ### Frutas y verduras 🥬
 
