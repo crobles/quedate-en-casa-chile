@@ -10,11 +10,11 @@ Otra manera de aportar es twitteando la información de la tienda (dirección, d
 El formato a utilizar y las normas para aportar a esta lista se explica a continuación:
 
 ```
-* www.dirección.de.la.pagina - Descripción. Zona de despacho.
+* [dirección.de.la.pagina](http://www.dirección.completa) - Descripción. Zona de despacho.
 ```
 
 * Realice un pull request por aporte. Si es que el sitio calza en varias categorías, agréguelo a varias categorías pero con diferente descripción.
-* el `www` es importante para el sistema de *autolink* de Github y además hace a la lista más compatible para copiar y pegar en cualquier sistema de mensajería y solo se omitirá en casos en que se ocupe algún subdominio específico para la tienda.
+* el `www` es importante para el sistema de *autolink* de algunos sistema de mensajería en el caso de algunos TLD (ver `tandem.wine`).
 * Si es que la tienda despacha a todo Chile, no agregar zona de despacho.
 * Si es que la tienda no informa su zona de despacho, por favor averigue con la tienda antes de agregarla.
 * Trate primero de encajar la tienda en las categorías existentes si se puede antes de agregar una nueva categoría.
