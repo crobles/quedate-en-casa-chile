@@ -3,7 +3,7 @@
 
 Esta es una lista en constante crecimiento. Si quiere agregar algo a la lista o corregir alguna información de ella, por favor hágalo a través de **Pull Request**.
 
-Otra manera de aportar es twitteando la información de la tienda (dirección, descripción, zona de despacho) con el hashtag `#quedateencasachile` que será revisado periódicamente por tweets que contengan esta información.
+Otra manera de aportar es twitteando la información de la tienda (dirección, descripción, zona de despacho) con el hashtag `#compraentucasachile` que será revisado periódicamente por tweets que contengan esta información.
 
 # Guía de formato y Pull Request
 
