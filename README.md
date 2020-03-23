@@ -73,6 +73,7 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 * www.mbgreen.cl - Frutas, verduras y legumbres. Algunas comunas de RM.
 * www.feriaadomicilio.cl - Frutas y verduras. Algunas comunas de RM.
 * www.applaferia.cl - Frutas y verduras. Algunas comunas de RM.
+* www.fruteriabilbao.cl - Frutas, verduras y tostaduría. Algunas comunas de RM.
 * www.instagram.com/despensapedidos - Frutas y verduras de La Vega. RM.
 * www.instagram.com/todopaltas - Palta Hass. [No especifica zona](aportando.md).
 
