@@ -1,6 +1,6 @@
 # Quédate En Casa Chile
 
-Este repositorio comienza como una ayuda para las personas en cuarentena por CoV-19 para poder acceder a productos sin necesidad de salir de sus casas y maximizar su distanciamiento social, y al mismo tiempo apoyar el comercio minorista y el emprendimiento local.
+Este repositorio comienza como una ayuda para las personas en cuarentena por COVID-19 para poder acceder a productos sin necesidad de salir de sus casas y maximizar su distanciamiento social, y al mismo tiempo apoyar el comercio minorista y el emprendimiento local.
 
 Todas las grandes cadenas de supermercados ofrecen despacho a la casa, así como también una gran lista de locales de comida a través de servicios como Rappi, Uber Eats y Pedidos Ya, por lo que se han omitido de la lista. 
 
