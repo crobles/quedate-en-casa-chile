@@ -36,6 +36,7 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 * [casadelacerveza.cl](http://www.casadelacerveza.cl) - Cervezas.
 * [santaritaonline.com](http://www.santaritaonline.com) - Bebidas alcoholicas. `Varias regiones`
 * [www.tandem.wine](https://tandem.wine/) - Bebidas alcoholicas con subscripción.
+* [labarra.cl](http://www.labarra.cl) - Bebidas, jugos, agua y alcohol. `RM`
 
 ### Carnes 🥩
 
