@@ -48,8 +48,9 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 
 ### Café y té ☕
 
-* [outletdelcafe.cl](http://www.outletdelcafe.cl) - Café de grano. `Despacho a todo Chile por Chilexpress`
+* [outletdelcafe.cl](http://www.outletdelcafe.cl) - Café de grano.
 * [huertosdelchef.cl](http://www.huertosdelchef.cl) - Té e infusiones. `RM`
+* [cosasnuestras.cl](https://www.cosasnuestras.cl/) - Hierba mate e implementos.
 
 ### Deportiva 🚲
 
