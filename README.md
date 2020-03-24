@@ -20,6 +20,7 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
   * [Pescados y mariscos](#pescados-y-mariscos-)
   * [Vegana](#vegana-)
 * [Mascotas](#mascotas-)
+* [Entretenimiento](#entretenimiento-)
 
 ## Aseo e higiene 🧻
 
@@ -51,6 +52,7 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 * [outletdelcafe.cl](http://www.outletdelcafe.cl) - Café de grano.
 * [huertosdelchef.cl](http://www.huertosdelchef.cl) - Té e infusiones. `RM`
 * [cosasnuestras.cl](https://www.cosasnuestras.cl/) - Hierba mate e implementos.
+* [instagram.com/cafeaconcagua](https://www.instagram.com/cafeaconcagua/) - Café en grano o molido. `Algunas comunas de RM`
 
 ### Deportiva 🚲
 
@@ -62,6 +64,8 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 * [instagram.com/losmora.charcuteria](https://www.instagram.com/losmora.charcuteria) - Charcutería. `RM`
 * [instagram.com/montecarmelocolmenares](https://www.instagram.com/montecarmelocolmenares) - Miel. `RM`
 * [instagram.com/campodebarrio](https://www.instagram.com/campodebarrio) - Granola artesanal y quesos. *[No especifica zona](aportando.md)*
+* [instagram.com/emporiopewma](https://www.instagram.com/emporiopewma) - Quesos y otros productos del Sur. `Algunas comunas de RM`
+* [instagram.com/gustosogourmet](https://www.instagram.com/gustosogourmet/) - Mermeladas. `Algunas comunas de RM`
 
 ### Frutas y verduras 🥬
 
@@ -101,6 +105,10 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 ## Mascotas 🐱
 
 * [puntomascotas.cl](http://www.puntomascotas.cl) - Productos para perros, gatos y exóticos.
+
+## Entretenimiento 🎲
+
+* [cafe2d6.cl](https://www.cafe2d6.cl/) - Juegos de mesa de todo tipo
 
 # Créditos y motivación
 
