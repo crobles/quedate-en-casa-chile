@@ -37,6 +37,7 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 * [santaritaonline.com](http://www.santaritaonline.com) - Bebidas alcoholicas. `Varias regiones`
 * [www.tandem.wine](https://tandem.wine/) - Bebidas alcoholicas con subscripción.
 * [labarra.cl](http://www.labarra.cl) - Bebidas, jugos, agua y alcohol. `RM`
+* [lapizka.cl](http://www.lapizka.cl) - Pisco sour.
 
 ### Carnes 🥩
 
