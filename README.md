@@ -92,7 +92,7 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 * [fbx.cl](http://www.fbx.cl) - Pescados.
 * [instagram.com/antarseafood](https://www.instagram.com/antarseafood) - Ceviche, pescado y mariscos. `RM`
 * [delmuelle.cl](http://www.delmuelle.cl) - Pescados, mariscos y platos preparados. `Algunas comunas de RM`
-* [instagram.com/seadelik](https://www.instagram.com/seadelik) - Pescados, mariscos y platos preparados. *[No especifica zona](aportando.md)*
+* [instagram.com/seadelik](https://www.instagram.com/seadelik) - Pescados, mariscos y platos preparados. `Algunas comunas de RM`
 * [conagallas.cl](http://www.conagallas.cl) - Pescados y mariscos. `RM Oriente`
 * [huertosdelchef.cl](http://www.huertosdelchef.cl) - Pescados y mariscos. `RM`
 
