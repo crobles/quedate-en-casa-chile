@@ -46,7 +46,7 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 * [curacaribs.cl](http://www.curacaribs.cl) - Carnes ahumadas. `Algunas comunas de RM`
 * [costillasypunto.cl](http://www.costillasypunto.cl) - Costillas y otras carnes preparadas. `RM`
 * [tiendaonline.tinajacura.com](http://tiendaonline.tinajacura.com/) - Carne de pollo, cordero, vacuro y huevos. `RM`
-* [carboneros.cl](http://www.carboneros.cl) - Carbón para parrilla. *[No especifica zona](aportando.md)*
+* [carboneros.cl](http://www.carboneros.cl) - Carbón para parrilla. `RM`
 
 ### Café y té ☕
 
