@@ -60,6 +60,7 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 
 ### Desayuno y once 🍯
 
+* [reinamadre.cl](http://www.reinamadre.cl) - Miel. 
 * [instagram.com/losmora.charcuteria](https://www.instagram.com/losmora.charcuteria) - Charcutería. `RM`
 * [instagram.com/montecarmelocolmenares](https://www.instagram.com/montecarmelocolmenares) - Miel. `RM`
 * [instagram.com/campodebarrio](https://www.instagram.com/campodebarrio) - Granola artesanal y quesos. *[No especifica zona](aportando.md)*
