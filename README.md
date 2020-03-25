@@ -2,7 +2,9 @@
 
 Este repositorio comienza como una ayuda para las personas en cuarentena por [COVID-19](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/) para poder acceder a productos sin necesidad de salir de sus casas y maximizar su distanciamiento social, y al mismo tiempo apoyar el comercio minorista y el emprendimiento local.
 
-Todas las grandes cadenas de supermercados ofrecen despacho a la casa, así como también una gran lista de locales de comida a través de servicios como Rappi, Uber Eats y Pedidos Ya, por lo que se han omitido de la lista. 
+Todas las grandes cadenas de supermercados ofrecen despacho a la casa, así como también una gran lista de locales de comida a través de servicios como Rappi, Uber Eats y Pedidos Ya, por lo que se han omitido de la lista.
+
+Para artículos que no son primera necesidad, visita la [lista extra](extra.md).
 
 Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 
@@ -20,7 +22,6 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
   * [Pescados y mariscos](#pescados-y-mariscos-)
   * [Vegana](#vegana-)
 * [Mascotas](#mascotas-)
-* [Entretenimiento](#entretenimiento-)
 
 ## Aseo e higiene 🧻
 
@@ -108,10 +109,6 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 ## Mascotas 🐱
 
 * [puntomascotas.cl](http://www.puntomascotas.cl) - Productos para perros, gatos y exóticos.
-
-## Entretenimiento 🎲
-
-* [cafe2d6.cl](https://www.cafe2d6.cl/) - Juegos de mesa de todo tipo
 
 # Créditos y motivación
 
