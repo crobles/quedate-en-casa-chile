@@ -84,6 +84,7 @@ Los aportes son bienvenidos siguiendo la [guía de aporte](aportando.md).
 * [fruteriabilbao.cl](http://www.fruteriabilbao.cl) - Frutas, verduras y tostaduría. `Algunas comunas de RM`
 * [instagram.com/despensapedidos](https://www.instagram.com/despensapedidos) - Frutas y verduras de La Vega. `RM`
 * [instagram.com/todopaltas](https://www.instagram.com/todopaltas) - Palta Hass. `Algunas comunas de RM`
+* [zaqui.cl](https://zaqui.cl/) - Frutas, verduras y frutos secos. `Algunas comunas de RM y V Región`
 
 ### Huevos 🥚
 
